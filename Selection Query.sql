@@ -1,4 +1,8 @@
-/* Making Selections From Tables and Using the 'Where' Statement */
+/* 
+
+Making Selections From Tables and Using the 'Where' Statement 
+
+*/
 
 SELECT TOP (5) *
 FROM EmployeeDemographics
