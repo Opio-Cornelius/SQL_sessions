@@ -1,1 +1,1 @@
-My SQL practice sessions using Microsoft SQL server management studio.
+The major SQL functions are shown here using Microsoft SQL server management studio.
